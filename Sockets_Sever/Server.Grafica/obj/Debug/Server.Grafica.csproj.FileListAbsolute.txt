@@ -1,0 +1,10 @@
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\bin\Debug\Server.Grafica.exe.config
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\bin\Debug\Server.Grafica.exe
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\bin\Debug\Server.Grafica.pdb
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\obj\Debug\Server.Grafica.csprojAssemblyReference.cache
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\obj\Debug\Server.Grafica.Form1.resources
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\obj\Debug\Server.Grafica.Properties.Resources.resources
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\obj\Debug\Server.Grafica.csproj.GenerateResource.cache
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\obj\Debug\Server.Grafica.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\obj\Debug\Server.Grafica.exe
+D:\Proyectos Desarrollo\Sockets\Sockets_Sever\Server.Grafica\obj\Debug\Server.Grafica.pdb
